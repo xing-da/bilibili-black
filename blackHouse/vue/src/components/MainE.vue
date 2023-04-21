@@ -10,6 +10,8 @@ export default {
   props: {
     msg: String,
   },
+  beforeCreate(){},
+  created(){},
 };
 </script>
 <style scoped lang="scss"></style>
